@@ -21,7 +21,7 @@ Exercises on Python ta-lib library
 ### Video
 [**библиотека TA-lib**](https://www.youtube.com/results?search_query=библиотека+TA-lib)           
 [Краткий обзор библиотеки TA-lib | Теханализ в Python](https://www.youtube.com/watch?v=eBG8nCfeKXc) - установка и работа           
-[TA - LIB. Библиотека теханализа для Python. Обзор библиотеки индикаторов для трейдинга](https://www.youtube.com/watch?v=5KHdKZqJg1E)
-[TA-Lib. Как установить. Библиотека технического анализа для Python / TA-Lib. How to install Python](https://www.youtube.com/watch?v=vvtAVAkpETE)
+[TA - LIB. Библиотека теханализа для Python. Обзор библиотеки индикаторов для трейдинга](https://www.youtube.com/watch?v=5KHdKZqJg1E)                     
+[TA-Lib. Как установить. Библиотека технического анализа для Python / TA-Lib. How to install Python](https://www.youtube.com/watch?v=vvtAVAkpETE)                    
 Также              
 [Библиотека Tradingview для Python. Бесплатные индикаторы от Tradingview](https://www.youtube.com/watch?v=1PrhxBoMr7w)        
